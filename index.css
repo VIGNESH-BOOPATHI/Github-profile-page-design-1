@@ -1,0 +1,119 @@
+* {
+  margin: 0px
+}
+
+
+#height{
+    height: 1300px;
+}
+
+
+.big1{
+    background-color: #bcccc0;
+    height: 100%;
+    width: 100%;
+    
+}
+    
+
+.fa{
+   
+    color: white;
+    /* margin-right:100px; */
+    padding-top: 13px;
+    
+   
+}
+
+#hwidth{
+    width: 100%;
+}
+
+#hcolor{
+    background-color: #42575b;
+    padding-top: 10px;
+    padding-bottom: 20px;
+   
+/*     
+    #5a6b6b */
+}
+
+.flex-item{
+  
+    
+    color: white;
+    text-align: center;
+    display: inline-block;
+    margin-left: 45%;
+}
+
+
+
+  .box {
+    height: 500px; /* Adjust height as needed */
+    margin: 15% 0px 0px 10%; /* Add spacing between boxes */
+    border-radius: 30px;
+}
+
+  .box1 {
+    width: 80%; /* Width of the first box */
+    background-color: #3f3a3a; /* Example background color */
+  }
+
+  .seek{
+  
+      margin: 0;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 30%;
+  }
+
+  .search-bar {
+    background-color: #3f3a3a;
+    border-radius: 10px; /* Adjust border radius as needed */
+    padding: 10px; /* Add padding inside the search bar */
+    width: 80%; /* Set the width of the search bar */
+    color: white; /* Text color */
+    border: none; /* Remove default border */
+  }
+
+  /* Style the placeholder text */
+  ::placeholder {
+    color: white; /* Placeholder text color */
+    opacity: 0.5; /* Placeholder opacity */
+  }
+  .flex-container {
+    display: flex;
+    flex-direction: row;
+    height: 150px;
+    justify-content: space-between; /* Use flexbox */
+    flex-wrap: wrap;
+  }
+
+  
+
+  #sam{
+    width: 25%; /* Adjust width as needed */
+    /* height: 75%; Adjust height as needed */
+    margin: 10px; /* Add spacing between boxes */
+    border-radius: 20px;
+    background-color: #3f3a3a; /* Light blue */
+    /* display: flex; */
+}
+
+.seek2{
+    display: flex;
+    height: 200px;
+    
+}
+  
+  #last{
+    width: 95%; /* Adjust width as needed */
+    /* height: 25%; Adjust height as needed */
+    margin: 20px 10px 0px 10px; /* Add spacing between boxes */
+    background-color: #3f3a3a; /* Light blue */
+    border-radius: 30px;
+  }
+  
+  
